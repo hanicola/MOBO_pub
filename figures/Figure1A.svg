@@ -35,6 +35,42 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#14483b;stop-opacity:1;"
+         offset="0.39747635"
+         id="stop5" />
+      <stop
+         style="stop-color:#14483b;stop-opacity:0.5;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#14483b;stop-opacity:1;"
+         offset="0.00630915"
+         id="stop3" />
+      <stop
+         style="stop-color:#14483b;stop-opacity:0.5;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#14483b;stop-opacity:1;"
+         offset="0.35646686"
+         id="stop1" />
+      <stop
+         style="stop-color:#14483b;stop-opacity:0.5;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
     <marker
        style="overflow:visible"
        id="ArrowWideRounded"
@@ -56,30 +92,6 @@
          id="path2" />
     </marker>
     <linearGradient
-       id="linearGradient17"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#14483b;stop-opacity:1;"
-         offset="0"
-         id="stop17" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop18" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient15"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#14483b;stop-opacity:1;"
-         offset="0"
-         id="stop15" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop16" />
-    </linearGradient>
-    <linearGradient
        id="swatch6"
        inkscape:swatch="solid">
       <stop
@@ -87,26 +99,6 @@
          offset="0"
          id="stop7" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient15"
-       id="linearGradient16"
-       x1="165.86044"
-       y1="121.03437"
-       x2="178.79889"
-       y2="136.45383"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.873317,0,0,1.873317,-115.75152,-193.03016)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient17"
-       id="linearGradient18"
-       x1="162.29948"
-       y1="141.43781"
-       x2="168.44061"
-       y2="158.31038"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.8656567,0,0,1.8656567,-105.95429,-199.4669)" />
     <marker
        style="overflow:visible"
        id="ArrowWideRounded-2"
@@ -147,6 +139,33 @@
          sodipodi:nodetypes="ccc"
          id="path2-3-7" />
     </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="202.75349"
+       y1="55.298714"
+       x2="209.30132"
+       y2="92.433235"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="203.38191"
+       y1="89.457581"
+       x2="209.92973"
+       y2="126.59212"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="linearGradient6"
+       x1="203.80264"
+       y1="29.581081"
+       x2="210.35045"
+       y2="66.715607"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -328,17 +347,17 @@
        d="M 199.83407,101.64404 H 230 l -15.08296,15.08295 h -30.16592 z"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#14483b;stroke:#000000;stroke-width:0.252293;stroke-opacity:1;fill-opacity:1"
+       style="fill:url(#linearGradient4);stroke:#000000;stroke-width:0.252293;stroke-opacity:1;fill-opacity:1"
        d="m 187.80938,115.38655 c 4.62391,-0.26624 7.51468,-22.547717 13.78239,-11.79631 4.70081,8.06359 4.41781,-2.00396 16.23301,1.24806 2.9525,0.81265 7.40029,-2.56695 7.55917,-0.90526"
        id="path20"
        sodipodi:nodetypes="cssc" />
     <path
        id="rect3-5-1-3-5"
-       style="fill:#e3e2db;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       style="fill:#14483b;fill-opacity:0.60000002;stroke:#000000;stroke-width:0;stroke-dasharray:none"
        d="M 199.83407,41.312216 H 230 l -15.08296,15.082955 h -30.16592 z"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:url(#linearGradient16);stroke:#14483b;stroke-width:0.495647;stroke-opacity:1"
+       style="fill:url(#linearGradient6);stroke:#14483b;stroke-width:0.495647;stroke-opacity:1;fill-opacity:1"
        d="m 188.46377,54.794408 c 0,0 3.85819,-15.990355 15.6684,-12.643319 16.56232,4.693786 14.36983,0.795842 21.79615,0.85322"
        id="path1"
        sodipodi:nodetypes="csc" />
@@ -348,88 +367,88 @@
        d="M 199.83407,71.478126 H 230 l -15.08296,15.082955 h -30.16592 z"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:url(#linearGradient18);stroke:#14483b;stroke-width:0.493621;stroke-opacity:1"
+       style="mix-blend-mode:normal;fill:url(#linearGradient2);stroke:#14483b;stroke-width:0.493621;stroke-opacity:1"
        d="m 187.43815,85.428102 c -0.21602,1.555436 1.98042,-4.926322 16.84031,-20.857295 8.51585,-9.129648 20.3938,9.733411 20.3938,9.733411"
        id="path16"
        sodipodi:nodetypes="csc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e3e2db;fill-opacity:1;stroke:#14483b;stroke-width:0.264583;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e3e2db;fill-opacity:1;stroke:#14483b;stroke-width:0.264583;stroke-opacity:1"
        x="232.48622"
        y="46.416622"
        id="text28"><tspan
          sodipodi:role="line"
          id="tspan28"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';fill:#000000;fill-opacity:1;stroke-width:0.264583"
          x="232.48622"
          y="46.416622">growth</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';fill:#000000;fill-opacity:1;stroke-width:0.264583"
          x="232.48622"
-         y="53.68288"
+         y="55.499458"
          id="tspan30" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#14483b;stroke-width:0.264583;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#14483b;stroke-width:0.264583;stroke-opacity:1"
        x="232.38425"
        y="76.623329"
        id="text31"><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';stroke-width:0.264583"
          x="232.38425"
          y="76.623329"
          id="tspan32">cost</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';stroke-width:0.264583"
          x="232.38425"
-         y="83.678879"
+         y="85.44278"
          id="tspan33" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#14483b;stroke-width:0.264583;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#14483b;stroke-width:0.264583;stroke-opacity:1"
        x="232.21062"
        y="106.41249"
        id="text34"><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';stroke-width:0.264583"
          x="232.21062"
          y="106.41249"
          id="tspan35">production</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';stroke-width:0.264583"
          x="232.21062"
-         y="113.46804"
+         y="115.23194"
          id="tspan36" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#14483b;stroke-width:0.264583;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#14483b;stroke-width:0.264583;stroke-opacity:1"
        x="41.721649"
        y="27.315344"
        id="text37"><tspan
          sodipodi:role="line"
          id="tspan37"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';stroke-width:0.264583"
          x="41.721649"
          y="27.315344">O2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#14483b;stroke-width:0.264583;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#14483b;stroke-width:0.264583;stroke-opacity:1"
        x="65.932518"
        y="27.315344"
        id="text38"><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';stroke-width:0.264583"
          x="65.932518"
          y="27.315344"
          id="tspan39">Glucose</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#14483b;stroke-width:0.264583;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#14483b;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        x="98.282066"
        y="26.361742"
        id="text40"><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';stroke-width:0.265;stroke-dasharray:none"
          x="98.282066"
          y="26.361742"
          id="tspan41">Mg2+</tspan></text>
@@ -451,5 +470,10 @@
        id="path42-1-8"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:url(#linearGradient4);stroke:#000000;stroke-width:0.252293;stroke-opacity:1;fill-opacity:1"
+       d="m 187.80938,115.38655 c 4.62391,-0.26624 7.51468,-22.547717 13.78239,-11.79631 4.70081,8.06359 4.41781,-2.00396 16.23301,1.24806 2.9525,0.81265 7.40029,-2.56695 7.55917,-0.90526"
+       id="path4"
+       sodipodi:nodetypes="cssc" />
   </g>
 </svg>
